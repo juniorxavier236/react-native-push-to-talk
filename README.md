@@ -1,6 +1,6 @@
 # react-native-push-to-talk
 
-push-to-talk
+react-native-push-to-talk
 
 ## Installation
 
@@ -11,7 +11,7 @@ npm install react-native-push-to-talk
 ## Usage
 
 ```js
-import { multiply } from 'react-native-push-to-talk';
+import { multiply } from "react-native-push-to-talk";
 
 // ...
 
